@@ -1,0 +1,126 @@
+body {
+  margin: 0;
+  text-align: center;
+  background-color: #F8F5F1;
+}
+
+h1 {
+  margin: 50px auto 0;
+  font-family: 'Gowun Dodum', sans-serif;
+  font-size: 6rem;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+p {
+  font-family: 'Roboto', sans-serif;
+  line-height: 2;
+}
+
+h3 {
+  font-family: 'Roboto', sans-serif;
+  color: #11999E;
+  font-weight: bolder;
+}
+
+a {
+  color: #11999E;
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  text-decoration: none;
+  font-size: 1.4rem;
+}
+
+hr {
+  border: 0;
+  border-top: 7px;
+  border-style: dotted;
+  width: 4%;
+  margin: 40px auto;
+  color: gray;
+}
+
+.top-container {
+  background-color: #E3FDFD;
+  position: relative;
+  padding-top: 100px;
+}
+
+.made {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  right: 550px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  top: 400px;
+  left: 550px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px;
+  text-align: left;
+}
+
+.bottom {
+  margin: 100px auto 200px;
+}
+
+.code-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.painting-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px;
+}
+
+.footer-link {
+  padding: 30px;
+}
+
+.footer-link:hover {
+  color: white;
+}
+
+.btn {
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 10px;
+  color: #FFFFFF;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 27px;
+  font-weight: 100;
+  padding: 10px 16px;
+  background-color: #66BFBF;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  margin: 30px auto 100px;
+}
+
+.copyright {
+  padding-top: 30px;
+  color: #EAF6F6;
+}
